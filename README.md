@@ -1,3 +1,5 @@
 # Compose-Input-A-Demonstration-Of-Text-Input-And-Validation-With-Android-Compose
-#  team leader developer link-  https://g.dev/Sudarsan
-#  team memebers developer link- https://g.dev/Navith-mr https://g.dev/RajeshI https://g.dev/KPrasanth
+# P.Sudarsan developer link-  https://g.dev/Sudarsan
+#  R.Navith developer link- https://g.dev/Navith-mr  
+# I. Rajesh developer link - https://g.dev/RajeshI
+# K. Prasanth developer link - https://g.dev/KPrasanth
